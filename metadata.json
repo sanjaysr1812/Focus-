@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Focus on what matters. Organize daily tasks, complete focused study sessions, track study hours, and build lasting productivity habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
