@@ -1,5 +1,13 @@
 # FocusFlow — Focus on what matters
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Backend-Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+
 FocusFlow is a full-stack productivity and study management application built with **React**, **TypeScript**, **Vite**, **Tailwind CSS**, **React Router**, **Recharts**, **IndexedDB** (Guest Mode), and **Supabase PostgreSQL + Authentication + Row Level Security (RLS)**.
 
 ---
