@@ -89,3 +89,10 @@ npm run build
 ## 5. Known Limitations
 - **Supabase Cloud Sync**: Requires the user's own `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` environment variables and running the SQL migration in their Supabase project. Until configured, the application runs with full functionality in local Guest Mode via IndexedDB.
 - **Browser Notifications**: Require explicit user permission and browser support for the Web Notifications API (some embedded iframe contexts restrict system notifications).
+
+
+## Contributing
+Contributions are welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+
+### Good first issue
+- [Add edge-case tests for date utilities](../../issues/2)
