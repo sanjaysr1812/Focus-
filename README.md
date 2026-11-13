@@ -95,4 +95,4 @@ npm run build
 Contributions are welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ### Good first issue
-- [Add edge-case tests for date utilities](../../issues/2)
+- [Add edge-case tests for date utilities](https://github.com/sanjaysr1812/Focus-/issues/2)
